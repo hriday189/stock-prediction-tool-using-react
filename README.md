@@ -1,3 +1,4 @@
+![screenshot](https://github.com/user-attachments/assets/05bff61b-d475-4388-b4ec-5bc8635b08a9)
 # stock-prediction-tool-using-react
 I have create a stock prediction app using React. This app will allow users to input a stock symbol and get a simple prediction based on historical data
 This stock prediction app includes the following features:
